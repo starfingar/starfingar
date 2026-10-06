@@ -28,9 +28,3 @@ Estudante de desenvolvimento web, focado em HTML, CSS e JavaScript.
 ![HTML5](https://img.shields.io/badge/HTML5-9d4edd?style=for-the-badge&logo=html5&logoColor=FFD700)
 ![CSS3](https://img.shields.io/badge/CSS3-40E0D0?style=for-the-badge&logo=css3&logoColor=0d0221)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=0d0221)
-
----
-
-## Gráfico de atividade
-
-![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=starfingar&theme=react-dark&hide_border=true&bg_color=0d0221&color=40E0D0&line=9d4edd&point=FFD700)
